@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tinashe.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning ReactJs and Firebase for realtime systems.
+- 🌱 I’m currently learning ReactJs.
 - 💞️ I’m looking to collaborate on any project that inncrease my experience & knowledge in this domain.
 - 📫 You can reach me @Jum011.
 
